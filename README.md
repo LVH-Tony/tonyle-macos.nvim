@@ -2,7 +2,8 @@
 
 **IMPORTANT:** These are primarily meant for inspiration. I wouldn't just blindly use them. Proceed at your own risk!
 
-📹 Youtube Playlist With Detailed Walkthroughs on My Setup: [💻 My Dev Environment & Workflow](https://youtube.com/playlist?list=PLnu5gT9QrFg36OehOdECFvxFFeMHhb_07)
+📹 Youtube Playlist With Detailed Walkthroughs on the Setup: [💻 My Dev Environment & Workflow](https://youtube.com/playlist?list=PLnu5gT9QrFg36OehOdECFvxFFeMHhb_07)
+- Credit to: [Josean Martinez](https://www.youtube.com/@joseanmartinez)
 
 # Terminal Setup
 
