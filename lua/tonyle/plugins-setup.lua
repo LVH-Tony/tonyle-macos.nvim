@@ -135,6 +135,9 @@ return packer.startup(function(use)
     },
   })
 
+  -- wilder
+  use("gelguy/wilder.nvim")
+
   if packer_bootstrap then
     require("packer").sync()
   end
