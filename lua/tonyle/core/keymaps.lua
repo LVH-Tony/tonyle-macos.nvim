@@ -68,3 +68,6 @@ keymap.set("n", "<leader>rs", ":LspRestart<CR>") -- mapping to restart lsp if ne
 -- Markdown Preview
 keymap.set("n", "<leader>mp", ":MarkdownPreview<CR>")
 keymap.set("n", "<leader>mc", ":MarkdownPreviewStop<CR>")
+
+-- Gitsigns keymaps
+keymap.set("n", "<leader>ht", ":Gitsigns toggle_current_line_blame<CR>") -- toggle git blame for current line
