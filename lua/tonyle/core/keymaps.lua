@@ -31,6 +31,10 @@ keymap.set("n", "<leader>tx", ":tabclose<CR>") -- close current tab
 keymap.set("n", "<leader>t.", ":tabn<CR>") --  go to next tab
 keymap.set("n", "<leader>t,", ":tabp<CR>") --  go to previous tab
 
+-- UNDO & REDO shortcut
+keymap.set("n", "<leader>u", ":undo<CR>")
+keymap.set("n", "<leader>r", ":redo<CR>")
+
 ----------------------
 -- Plugin Keybinds
 ----------------------
