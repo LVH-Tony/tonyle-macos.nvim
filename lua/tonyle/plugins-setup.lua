@@ -135,6 +135,12 @@ return packer.startup(function(use)
     },
   })
 
+  -- Quatro
+  use({
+    "quarto-dev/quarto-nvim",
+    "jmbuhr/otter.nvim",
+  })
+
   -- wilder
   use("gelguy/wilder.nvim")
 
