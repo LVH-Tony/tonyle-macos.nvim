@@ -74,4 +74,4 @@ keymap.set("n", "<leader>ht", ":Gitsigns toggle_current_line_blame<CR>") -- togg
 
 -- Quarto Preview
 keymap.set("n", "<leader>qp", ":QuartoPreview<CR>")
-keymap.set("n", "<leader>qc", ":QuartoPreviewStop<CR>")
+keymap.set("n", "<leader>qc", ":QuartoClosePreview<CR>")
