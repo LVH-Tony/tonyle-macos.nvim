@@ -71,3 +71,7 @@ keymap.set("n", "<leader>mc", ":MarkdownPreviewStop<CR>")
 
 -- Gitsigns keymaps
 keymap.set("n", "<leader>ht", ":Gitsigns toggle_current_line_blame<CR>") -- toggle git blame for current line
+
+-- Quarto Preview
+keymap.set("n", "<leader>qp", ":QuartoPreview<CR>")
+keymap.set("n", "<leader>qc", ":QuartoPreviewStop<CR>")
